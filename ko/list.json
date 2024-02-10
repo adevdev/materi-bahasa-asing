@@ -1,16 +1,23 @@
 [
     {
-      "title": "Partikel 은/는, 이/가 ,께서",
+      "title": "Partikel *_은/는, 이/가 ,께서_*",
       "tags": [
         "partikel"
       ],
       "link": "partikel1.txt"
     },
     {
-      "title": "Partikel 을,를",
+      "title": "Partikel *_을,를_*",
       "tags": [
         "partikel"
       ],
       "link": "partikel2.txt"
+    },
+    {
+      "title": "Partikel *_의_*",
+      "tags": [
+        "partikel"
+      ],
+      "link": "partikel3.txt"
     }
 ]
