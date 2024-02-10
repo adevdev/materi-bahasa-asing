@@ -1,7 +1,7 @@
-을,를
-Digunakan untuk menandakan objek suatu kalimat. 을 untuk objek yang berakhiran
-konsonan dan 를 untuk objek yang berakhiran vokal.
+*을,를*
+Digunakan untuk menandakan objek suatu kalimat. *을* untuk objek yang berakhiran
+konsonan dan *를* untuk objek yang berakhiran vokal.
 
 Contoh :
-• 이약을 드세요. Makanlah obat ini.
-• 아침에 우유를 마십니다 . Pagi hari minum susu.
+• *이약을* 드세요. Makanlah obat ini.
+• 아침에 *우유를* 마십니다 . Pagi hari minum susu.
