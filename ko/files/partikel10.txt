@@ -1,6 +1,5 @@
 *_만 Hanya_*
-Partikel yang mengeliminasi hal-hal lain serta merujuk hanya kepada satu hal yang
-diikutinya.
+Partikel yang mengeliminasi hal-hal lain serta merujuk hanya kepada satu hal yang diikutinya.
 
 Contoh :
 • 아침에는 밥을 먹지않습니다. *_우유만_* 마십니다.

@@ -1,6 +1,5 @@
 *_을,를_*
-Digunakan untuk menandakan objek suatu kalimat. *_을_* untuk objek yang berakhiran
-konsonan dan *를* untuk objek yang berakhiran vokal.
+Digunakan untuk menandakan objek suatu kalimat. *_을_* untuk objek yang berakhiran konsonan dan *를* untuk objek yang berakhiran vokal.
 
 Contoh :
 • *_이약을_* 드세요. Makanlah obat ini.

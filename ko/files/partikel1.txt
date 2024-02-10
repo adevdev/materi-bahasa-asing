@@ -1,6 +1,5 @@
 *_은/는, 이/가 ,께서_*
-Digunakan sebagai penanda subjek suatu kalimat , jika subjeknya berakhiran vokal maka
-ditambahkan *_는/가_* , jika subjek berakhiran konsonan maka ditambahkan *_은/가._*
+Digunakan sebagai penanda subjek suatu kalimat , jika subjeknya berakhiran vokal maka ditambahkan *_는/가_* , jika subjek berakhiran konsonan maka ditambahkan *_은/가._*
 Sedangkan *_께서_* digunakan sebagai penanda subjek untuk orang yang di hormati atau
 dituakan.
 
