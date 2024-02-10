@@ -19,5 +19,54 @@
         "partikel"
       ],
       "link": "partikel3.txt"
+    },
+    {
+      "title": "Partikel *_에_*",
+      "tags": [
+        "partikel"
+      ],
+      "link": "partikel4.txt"
+    },
+    {
+      "title": "Partikel *_에서_*",
+      "tags": [
+        "partikel"
+      ],
+      "link": "partikel5.txt"
+    },
+    {
+      "title": "Partikel *_로/으로_*",
+      "tags": [
+        "partikel"
+      ],
+      "link": "partikel6.txt"
+    },
+    {
+      "title": "Partikel *_한테/에께/께_*",
+      "tags": [
+        "partikel"
+      ],
+      "link": "partikel7.txt"
+    },
+    {
+      "title": "Partikel *_한테서/에께서/께서_*",
+      "tags": [
+        "partikel"
+      ],
+      "link": "partikel8.txt"
+    },
+    {
+      "title": "Partikel *_도_*",
+      "tags": [
+        "partikel"
+      ],
+      "link": "partikel9.txt"
+    },
+    {
+      "title": "Partikel *_만_*",
+      "tags": [
+        "partikel"
+      ],
+      "link": "partikel10.txt"
     }
 ]
